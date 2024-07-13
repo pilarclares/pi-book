@@ -1,0 +1,8 @@
+{
+  "name": "piBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "5caa16ae"
+}
